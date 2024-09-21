@@ -1,2 +1,2 @@
 #!/bin/bash
-python dibujo.py
+flor.py
